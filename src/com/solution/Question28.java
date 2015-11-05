@@ -1,7 +1,7 @@
 package com.solution;
 
 /**
- * 题意：字符串中第一次出现给定字符串的位置
+ * 28题意：字符串中第一次出现给定字符串的位置
  */
 public class Question28 {
 	public static int strStr(String haystack, String needle) {
